@@ -1,7 +1,7 @@
 package openssh
 
 import (
-	sshfx "github.com/viaTunnel/sftp/internal/encoding/ssh/filexfer"
+	sshfx "github.com/pkg/sftp/internal/encoding/ssh/filexfer"
 )
 
 const extensionHardlink = "hardlink@openssh.com"

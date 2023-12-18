@@ -1,4 +1,4 @@
-module github.com/viaTunnel/sftp
+module github.com/pkg/sftp
 
 go 1.15
 
